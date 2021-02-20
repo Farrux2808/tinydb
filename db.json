@@ -1,1 +1,122 @@
-{"_default": {"1": {"ID": "1", "model": "Galaxy S21 Ultra 5G", "company": "Samsung", "price": "500"}, "2": {"ID": "2", "model": "Galaxy S20 5G", "company": "Samsung", "price": "494"}, "3": {"ID": "3", "model": "Note20 Ultra 5G", "company": "Samsung", "price": "549"}, "4": {"ID": "4", "model": "Galaxy S10+", "company": "Samsung", "price": "1299"}, "5": {"ID": "5", "model": "iPhone 12", "company": "Apple", "price": "699"}, "6": {"ID": "6", "model": "iPhone SE", "company": "Apple", "price": "399"}, "7": {"ID": "7", "model": "iPhone 11", "company": "Apple", "price": "599"}, "8": {"ID": "8", "model": "Huawei P30 Pro", "company": "Huawei", "price": "624"}, "9": {"ID": "9", "model": "Huawei Mate 20 Pro", "company": "Huawei", "price": "499"}, "10": {"ID": "10", "model": "Oppo Find X2 Pro", "company": "Oppo", "price": "997"}, "11": {"ID": "11", "model": "Oppo Find X2", "company": "Oppo", "price": "800"}, "12": {"ID": "12", "model": "Oppo Reno 4 Pro 5G", "company": "Oppo", "price": "739"}, "13": {"ID": "13", "model": "Xiaomi Black Shark 3", "company": "Xiaomi", "price": "705"}, "14": {"ID": "14", "model": "Xiaomi Redmi Note 9", "company": "Xiaomi", "price": "190"}, "15": {"ID": "15", "model": "Xiaomi Redmi Note 9S", "company": "Xiaomi", "price": "236"}}}
+{
+    "_default": {},
+    "products": {
+        "1": {
+            "ID": "1",
+            "category": "smartphone",
+            "company": "Samsung"
+        },
+        "2": {
+            "ID": "2",
+            "category": "smartphone",
+            "company": "Apple"
+        },
+        "3": {
+            "ID": "3",
+            "category": "smartphone",
+            "company": "Huawei"
+        },
+        "4": {
+            "ID": "4",
+            "category": "smartphone",
+            "company": "Oppo"
+        },
+        "5": {
+            "ID": "5",
+            "category": "smartphone",
+            "company": "Xiaomi"
+        }
+    },
+    "specifications": {
+        "1": {
+            "ID": "1",
+            "model": "Galaxy S21 Ultra 5G",
+            "company": "Samsung",
+            "price": "500"
+        },
+        "2": {
+            "ID": "2",
+            "model": "Galaxy S20 5G",
+            "company": "Samsung",
+            "price": "494"
+        },
+        "3": {
+            "ID": "3",
+            "model": "Note20 Ultra 5G",
+            "company": "Samsung",
+            "price": "549"
+        },
+        "4": {
+            "ID": "4",
+            "model": "Galaxy S10+",
+            "company": "Samsung",
+            "price": "1299"
+        },
+        "5": {
+            "ID": "5",
+            "model": "iPhone 12",
+            "company": "Apple",
+            "price": "699"
+        },
+        "6": {
+            "ID": "6",
+            "model": "iPhone SE",
+            "company": "Apple",
+            "price": "399"
+        },
+        "7": {
+            "ID": "7",
+            "model": "iPhone 11",
+            "company": "Apple",
+            "price": "599"
+        },
+        "8": {
+            "ID": "8",
+            "model": "Huawei P30 Pro",
+            "company": "Huawei",
+            "price": "624"
+        },
+        "9": {
+            "ID": "9",
+            "model": "Huawei Mate 20 Pro",
+            "company": "Huawei",
+            "price": "499"
+        },
+        "10": {
+            "ID": "10",
+            "model": "Oppo Find X2 Pro",
+            "company": "Oppo",
+            "price": "997"
+        },
+        "11": {
+            "ID": "11",
+            "model": "Oppo Find X2",
+            "company": "Oppo",
+            "price": "800"
+        },
+        "12": {
+            "ID": "12",
+            "model": "Oppo Reno 4 Pro 5G",
+            "company": "Oppo",
+            "price": "739"
+        },
+        "13": {
+            "ID": "13",
+            "model": "Xiaomi Black Shark 3",
+            "company": "Xiaomi",
+            "price": "705"
+        },
+        "14": {
+            "ID": "14",
+            "model": "Xiaomi Redmi Note 9",
+            "company": "Xiaomi",
+            "price": "190"
+        },
+        "15": {
+            "ID": "15",
+            "model": "Xiaomi Redmi Note 9S",
+            "company": "Xiaomi",
+            "price": "236"
+        }
+    }
+}
